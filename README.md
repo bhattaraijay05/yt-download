@@ -22,10 +22,10 @@ Go To Chrome extension manager
 chrome://extensions
 
 Load Unpacked
-<img src="./img1.png" width="500" height="500">
+<img src="./img1.png" >
 
 Select the build folder
-<img src="./img2.png" width="500" height="500">
+<img src="./img2.png">
 
 Use Extension (Download Video / Audio)
-<img src="./img3.png" width="500" height="500">
+<img src="./img3.png" >
