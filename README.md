@@ -4,7 +4,7 @@ Youtube Audio and Video download extension for Chrome.
 
 ## Installation
 
-```node
+```bash
 git clone https://github.com/bhattaraijay05/yt-download.git
 
 cd yt-download
@@ -17,8 +17,8 @@ yarn build
 
 ## Usage
 
-Go To Chrome extension manager
-
+Go To Chrome extension manager :->
+[Chrome Extension](chrome://extensions)
 chrome://extensions
 
 Load Unpacked
